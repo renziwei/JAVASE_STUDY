@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d160faa1-a0cd-4f54-af2a-b23d63d7cfc0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY2/src/E4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY2/src/E4Again.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY2/src/E5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY2/src/E6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY2/src/E10.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JAVASE_DEMO" afterPath="$PROJECT_DIR$/JAVASE_DEMO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JAVASE_STUDY.iws" />
@@ -99,10 +95,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="E6.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="E6.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JAVASE_DAY2/src/E6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="1" selection-start="602" selection-end="602" vertical-scroll-proportion="0.7961595" vertical-offset="13" max-vertical-offset="736">
+            <state line="24" column="1" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="736">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="E10.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JAVASE_DAY2/src/E10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.38625956" vertical-offset="0" max-vertical-offset="655">
               <folding />
             </state>
           </provider>
@@ -145,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/JAVASE_DAY1/src/Helloworld.java" />
         <option value="$PROJECT_DIR$/JAVASE_DAY1/src/Hello.java" />
         <option value="$PROJECT_DIR$/JAVASE_DAY1/src/booleantest.java" />
         <option value="$PROJECT_DIR$/JAVASE_DAY2/src/Practise.java" />
@@ -161,6 +165,7 @@
         <option value="$PROJECT_DIR$/JAVASE_DAY2/src/E4Again.java" />
         <option value="$PROJECT_DIR$/JAVASE_DAY2/src/E5.java" />
         <option value="$PROJECT_DIR$/JAVASE_DAY2/src/E6.java" />
+        <option value="$PROJECT_DIR$/JAVASE_DAY2/src/E10.java" />
       </list>
     </option>
   </component>
@@ -555,12 +560,16 @@
       <created>1375592889543</created>
       <updated>1375592889543</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="sd">
+      <created>1375603061651</created>
+      <updated>1375603061651</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -583,7 +592,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1492109" sideWeight="0.67085075" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34648493" sideWeight="0.67085075" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34648493" sideWeight="0.67085075" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -657,13 +666,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JAVASE_DAY1/src/Helloworld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="266">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JAVASE_DAY1/src/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="24" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="598">
@@ -764,7 +766,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JAVASE_DAY2/src/E6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="1" selection-start="602" selection-end="602" vertical-scroll-proportion="0.7961595" vertical-offset="13" max-vertical-offset="736">
+        <state line="24" column="1" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASE_DAY2/src/E10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.38625956" vertical-offset="0" max-vertical-offset="655">
           <folding />
         </state>
       </provider>
