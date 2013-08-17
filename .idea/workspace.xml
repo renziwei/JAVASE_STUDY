@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d160faa1-a0cd-4f54-af2a-b23d63d7cfc0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY5/src/exercise/day5/java/E11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY5/src/exercise/day5/java/E12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY5/src/exercise/day5/java/E13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY5/src/exercise/day5/java/E14.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY5/src/exercise/day5/java/E15.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY5/src/exercise/day5/java/E16.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY5/src/exercise/day5/java/E17.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY5/src/exercise/day5/java/E18.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY4/src/opp/java/FinalTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASE_DAY5/JAVASE_DAY5.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JAVASE_DAY4/src/opp/java/Human.java" afterPath="$PROJECT_DIR$/JAVASE_DAY4/src/opp/java/Human.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JAVASE_DAY5/src/exercise/day5/java/E18.java" afterPath="$PROJECT_DIR$/JAVASE_DAY5/src/exercise/day5/java/E18.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JAVASE_STUDY.iws" />
@@ -90,7 +79,7 @@
       <file leaf-file-name="E18.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JAVASE_DAY5/src/exercise/day5/java/E18.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="18" selection-start="182" selection-end="201" vertical-scroll-proportion="0.27421758" vertical-offset="0" max-vertical-offset="671">
+            <state line="9" column="0" selection-start="274" selection-end="274" vertical-scroll-proportion="0.37704918" vertical-offset="0" max-vertical-offset="671">
               <folding />
             </state>
           </provider>
@@ -655,7 +644,11 @@
       <created>1376201498866</created>
       <updated>1376201498866</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="sd">
+      <created>1376722412549</created>
+      <updated>1376722412549</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -901,7 +894,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JAVASE_DAY5/src/exercise/day5/java/E18.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="18" selection-start="182" selection-end="201" vertical-scroll-proportion="0.27421758" vertical-offset="0" max-vertical-offset="671">
+        <state line="9" column="0" selection-start="274" selection-end="274" vertical-scroll-proportion="0.37704918" vertical-offset="0" max-vertical-offset="671">
           <folding />
         </state>
       </provider>
