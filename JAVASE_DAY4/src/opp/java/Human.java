@@ -8,7 +8,7 @@ public class Human {
     private int age;
     private static String earth;//人类只有一个地球。 静态一个实例做出的改变， 其它实例都能看到
 
-    void printInfo(){
+    public final void printInfo(){
         System.out.println(name);
         System.out.println(age);
         System.out.println(earth);
